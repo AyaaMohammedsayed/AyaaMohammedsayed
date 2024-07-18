@@ -1,4 +1,5 @@
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Aya Mohamed  I do open source!" src="./assets/gh-readme-header.png" /></a></p>
+<p align="center"><a href="https://github.com/AyaaMohammedsayed"><img width="80%" alt="Hello, I'm Aya Mohamed  I do open source!" src="![image](https://github.com/user-attachments/assets/4050fc35-2e9f-4402-927f-ffc5174833d9)
+" /></a></p>
 
 <br />
 
