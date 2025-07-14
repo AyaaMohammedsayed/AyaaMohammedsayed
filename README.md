@@ -1,6 +1,3 @@
-<h2 align="center">
-  Welcome to Aya Mohamed's GitHub
-</h2>
 
 <p align="center">
   <a href="https://github.com/AyaaMohammedsayed">
